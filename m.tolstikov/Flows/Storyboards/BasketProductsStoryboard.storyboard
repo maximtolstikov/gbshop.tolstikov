@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Qja-3c-6eD">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Basket View Controller-->
+        <scene sceneID="IE7-hd-CGg">
+            <objects>
+                <viewController storyboardIdentifier="basketVC" id="bXw-3X-WEc" customClass="BasketViewController" customModule="m_tolstikov" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5wA-Is-QTq">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hNx-28-reD">
+                                <rect key="frame" x="0.0" y="64" width="375" height="543"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="5ow-20-N2P">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="543"/>
+                                    </stackView>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="5ow-20-N2P" firstAttribute="width" secondItem="hNx-28-reD" secondAttribute="width" id="ED3-fF-16i"/>
+                                    <constraint firstItem="5ow-20-N2P" firstAttribute="height" secondItem="hNx-28-reD" secondAttribute="height" priority="1" placeholder="YES" id="MR5-1S-5BD"/>
+                                    <constraint firstItem="5ow-20-N2P" firstAttribute="top" secondItem="hNx-28-reD" secondAttribute="top" id="Ofh-6i-5gf"/>
+                                    <constraint firstAttribute="bottom" secondItem="5ow-20-N2P" secondAttribute="bottom" id="eCi-m0-MQS"/>
+                                    <constraint firstItem="5ow-20-N2P" firstAttribute="leading" secondItem="hNx-28-reD" secondAttribute="leading" id="n7I-rv-s3f"/>
+                                    <constraint firstAttribute="trailing" secondItem="5ow-20-N2P" secondAttribute="trailing" id="qvx-aM-caX"/>
+                                </constraints>
+                            </scrollView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4Tp-Wn-2wD">
+                                <rect key="frame" x="135.5" y="606" width="104" height="41"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="Оплатить"/>
+                                <connections>
+                                    <action selector="payOrderButton:" destination="bXw-3X-WEc" eventType="touchUpInside" id="TXC-M9-CbF"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="hNx-28-reD" firstAttribute="leading" secondItem="9By-Ff-4pB" secondAttribute="leading" id="7lI-aG-pIc"/>
+                            <constraint firstItem="hNx-28-reD" firstAttribute="trailing" secondItem="9By-Ff-4pB" secondAttribute="trailing" id="B2c-2J-BWH"/>
+                            <constraint firstItem="hNx-28-reD" firstAttribute="top" secondItem="9By-Ff-4pB" secondAttribute="top" id="YBs-fP-NYy"/>
+                            <constraint firstItem="9By-Ff-4pB" firstAttribute="bottom" secondItem="4Tp-Wn-2wD" secondAttribute="bottom" constant="20" id="q8U-wI-X2L"/>
+                            <constraint firstAttribute="bottom" secondItem="hNx-28-reD" secondAttribute="bottom" constant="60" id="qeb-LN-kKA"/>
+                            <constraint firstItem="4Tp-Wn-2wD" firstAttribute="centerX" secondItem="5wA-Is-QTq" secondAttribute="centerX" id="soV-V6-Pke"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="9By-Ff-4pB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="ul9-6L-0h5"/>
+                    <connections>
+                        <outlet property="stackOrder" destination="5ow-20-N2P" id="xaI-NN-K7X"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nPy-bi-ouz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="928.79999999999995" y="133.5832083958021"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="s2d-EB-dbb">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Qja-3c-6eD" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="0th-up-O9T">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="bXw-3X-WEc" kind="relationship" relationship="rootViewController" id="sMI-qW-47C"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="K85-Bl-xiX" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="117.59999999999999" y="134.48275862068968"/>
+        </scene>
+    </scenes>
+</document>
