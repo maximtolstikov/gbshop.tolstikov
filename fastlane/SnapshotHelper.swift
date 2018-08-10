@@ -30,6 +30,8 @@ func snapshot(_ name: String, waitForLoadingIndicator: Bool) {
     }
 }
 
+// swiftlint:disable all
+
 /// - Parameters:
 ///   - name: The name of the snapshot
 ///   - timeout: Amount of seconds to wait until the network loading indicator disappears. Pass `0` if you don't want to wait.

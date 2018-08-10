@@ -1,6 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:PerfectTemplate"
+      name = "PerfectTemplate">
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE.zh_CN">
+      </FileRef>
+      <FileRef
+         location = "group:Package.resolved">
+      </FileRef>
+      <FileRef
+         location = "group:Package.swift">
+      </FileRef>
+      <FileRef
+         location = "group:PerfectTemplate.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:README.zh_CN.md">
+      </FileRef>
+      <Group
+         location = "group:Sources"
+         name = "Sources">
+         <FileRef
+            location = "group:AddOpinionRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:AddOrderRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:AuthController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChangeUserDataRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:DeleteOpinionRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:GetAllGoodsRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:GetContentsBasket.swift">
+         </FileRef>
+         <FileRef
+            location = "group:GetGoodByIdRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:GetGoodByIdRequest.temp_caseinsensitive_rename.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ListOpinionRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LoginRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LogoutRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:main.swift">
+         </FileRef>
+         <FileRef
+            location = "group:OpinionController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:OrderController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:OrderPaymentRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Product.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ProductStoreController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RegisterRequest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RemoveOrderRequest.swift">
+         </FileRef>
+         <Group
+            location = "group:Service"
+            name = "Service">
+            <FileRef
+               location = "group:PlistManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:User.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UserManager.swift">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
    <FileRef
       location = "group:m.tolstikov.xcodeproj">
    </FileRef>
