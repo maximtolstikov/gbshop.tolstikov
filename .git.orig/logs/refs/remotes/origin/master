@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 88816709debf071cb1ae22442107340e49fca9dd Maxim Tolstikov <vadimovich@list.ru> 1530424689 +0300	fetch origin: storing head
+88816709debf071cb1ae22442107340e49fca9dd 98e422f97d6f490cbb704b3c17e0d41a8e19d9cd Maxim Tolstikov <vadimovich@list.ru> 1530425146 +0300	update by push
+98e422f97d6f490cbb704b3c17e0d41a8e19d9cd f825865eeb2cf78439fb64320911f8b31d3a57f3 Maxim Tolstikov <vadimovich@list.ru> 1530425844 +0300	update by push
+f825865eeb2cf78439fb64320911f8b31d3a57f3 ccfa18f6b2cc4b9815086fdf0c06c55e51aa4f59 Maxim Tolstikov <vadimovich@list.ru> 1530426350 +0300	update by push
+ccfa18f6b2cc4b9815086fdf0c06c55e51aa4f59 89187ed49fb02fe3288402329058cdfa576b0f5a Maxim Tolstikov <vadimovich@list.ru> 1530427000 +0300	update by push
+89187ed49fb02fe3288402329058cdfa576b0f5a 7b3b1f599923c55cd22057846b07d1a01c28ac75 Maxim Tolstikov <vadimovich@list.ru> 1530428528 +0300	update by push
+7b3b1f599923c55cd22057846b07d1a01c28ac75 2a32c53f6131407d63a8c34fdddfb9a0e398caba Maxim Tolstikov <vadimovich@list.ru> 1530430000 +0300	update by push
+2a32c53f6131407d63a8c34fdddfb9a0e398caba c14cb5e934c963b80acfb7b4d9db15fa1c63425c Maxim Tolstikov <vadimovich@list.ru> 1530430326 +0300	update by push
+c14cb5e934c963b80acfb7b4d9db15fa1c63425c 62fd3f32adc5ba78d104077e569798f6b5ee7039 Maxim Tolstikov <vadimovich@list.ru> 1530431262 +0300	update by push
+62fd3f32adc5ba78d104077e569798f6b5ee7039 7cd11a69d7d44625bdf0c42475aace985c122376 Maxim Tolstikov <vadimovich@list.ru> 1530434904 +0300	update by push
+7cd11a69d7d44625bdf0c42475aace985c122376 22a0438b98cebf3f50825f5ab5c405cacb7235bb Maxim Tolstikov <vadimovich@list.ru> 1530436479 +0300	update by push
+22a0438b98cebf3f50825f5ab5c405cacb7235bb 265e105be4e13c69026de6f4e1c0c0809e09fbe8 Maxim Tolstikov <vadimovich@list.ru> 1530456858 +0300	fetch origin: fast-forward
+265e105be4e13c69026de6f4e1c0c0809e09fbe8 61f33a959b86f71e5c227c6d25f80b8738f4ef66 Maxim Tolstikov <vadimovich@list.ru> 1530786677 +0300	update by push
+61f33a959b86f71e5c227c6d25f80b8738f4ef66 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530863251 +0300	fetch origin: fast-forward
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 7957bbc3da169b2bd9a3adbeda89d181a852374a Maxim Tolstikov <vadimovich@list.ru> 1530963403 +0300	update by push
+7957bbc3da169b2bd9a3adbeda89d181a852374a f21760d2024ef2e355ac4f4518e389caaf7bcd8f Maxim Tolstikov <vadimovich@list.ru> 1531125835 +0300	fetch origin: fast-forward
+f21760d2024ef2e355ac4f4518e389caaf7bcd8f 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531198228 +0300	update by push
+47a2994a928003f5b21a01ddf3d9117939509354 eef524626f0ea32f7b8a9fa5c35a2f951ba70e0b Maxim Tolstikov <vadimovich@list.ru> 1532161566 +0300	fetch origin: fast-forward
+eef524626f0ea32f7b8a9fa5c35a2f951ba70e0b 56db19369f16501fd845750fffa71f4261f75a55 Maxim Tolstikov <vadimovich@list.ru> 1532358629 +0300	update by push
+56db19369f16501fd845750fffa71f4261f75a55 0b3ae805c709ec839c5c52a41a70531209938b8a Maxim Tolstikov <vadimovich@list.ru> 1532716019 +0300	update by push
+0b3ae805c709ec839c5c52a41a70531209938b8a 01de70a38544474be47894693bb0079d0dd2a588 Maxim Tolstikov <vadimovich@list.ru> 1533047570 +0300	fetch origin: fast-forward
+01de70a38544474be47894693bb0079d0dd2a588 01de70a38544474be47894693bb0079d0dd2a588 Maxim Tolstikov <maxim@Maxims-iMac.local> 1533872052 +0300	remote: renamed refs/remotes/origin/master to refs/remotes/gitlab/master
+01de70a38544474be47894693bb0079d0dd2a588 01de70a38544474be47894693bb0079d0dd2a588 Maxim Tolstikov <maxim@Maxims-iMac.local> 1533872618 +0300	remote: renamed refs/remotes/gitlab/master to refs/remotes/origin/master
+01de70a38544474be47894693bb0079d0dd2a588 238b905c275895b88e7e17b987905388a018ce65 Maxim Tolstikov <vadimovich@list.ru> 1533872644 +0300	update by push

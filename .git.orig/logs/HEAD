@@ -1,0 +1,141 @@
+0000000000000000000000000000000000000000 be7721a78ba3f7c2a40acd2a3ed79d75028ef706 Maxim Tolstikov <vadimovich@list.ru> 1530424940 +0300	commit (initial): init
+be7721a78ba3f7c2a40acd2a3ed79d75028ef706 98e422f97d6f490cbb704b3c17e0d41a8e19d9cd Maxim Tolstikov <vadimovich@list.ru> 1530425128 +0300	commit (merge): Merge branch 'master' of gitlab.com:lazyload/Alistar/m.tolstikov
+98e422f97d6f490cbb704b3c17e0d41a8e19d9cd 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530425237 +0300	checkout: moving from master to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 98e422f97d6f490cbb704b3c17e0d41a8e19d9cd Maxim Tolstikov <vadimovich@list.ru> 1530425262 +0300	pull origin master: Fast-forward
+98e422f97d6f490cbb704b3c17e0d41a8e19d9cd 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530425325 +0300	checkout: moving from 98e422f97d6f490cbb704b3c17e0d41a8e19d9cd to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 4d4c9e569dcb268536dca3333880f7d39129ce0f Maxim Tolstikov <vadimovich@list.ru> 1530425338 +0300	revert: Revert "init"
+4d4c9e569dcb268536dca3333880f7d39129ce0f 336be6a9e8f1279cb22d7dc8b93666c4ff5e8512 Maxim Tolstikov <vadimovich@list.ru> 1530425366 +0300	revert: Revert "Revert "init""
+336be6a9e8f1279cb22d7dc8b93666c4ff5e8512 98e422f97d6f490cbb704b3c17e0d41a8e19d9cd Maxim Tolstikov <vadimovich@list.ru> 1530425376 +0300	checkout: moving from 336be6a9e8f1279cb22d7dc8b93666c4ff5e8512 to master
+98e422f97d6f490cbb704b3c17e0d41a8e19d9cd 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530425411 +0300	reset: moving to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 a35b7599664f306d16d7754320ae305047c1aed8 Maxim Tolstikov <vadimovich@list.ru> 1530425522 +0300	commit: comit2
+a35b7599664f306d16d7754320ae305047c1aed8 f825865eeb2cf78439fb64320911f8b31d3a57f3 Maxim Tolstikov <vadimovich@list.ru> 1530425807 +0300	pull origin master: Merge made by the 'recursive' strategy.
+f825865eeb2cf78439fb64320911f8b31d3a57f3 ccfa18f6b2cc4b9815086fdf0c06c55e51aa4f59 Maxim Tolstikov <vadimovich@list.ru> 1530426280 +0300	commit: all delete
+ccfa18f6b2cc4b9815086fdf0c06c55e51aa4f59 89187ed49fb02fe3288402329058cdfa576b0f5a Maxim Tolstikov <vadimovich@list.ru> 1530426987 +0300	commit: Настроена структура проекта
+89187ed49fb02fe3288402329058cdfa576b0f5a 7b3b1f599923c55cd22057846b07d1a01c28ac75 Maxim Tolstikov <vadimovich@list.ru> 1530427854 +0300	commit: в пустые дирректории добалены .gitkeep
+7b3b1f599923c55cd22057846b07d1a01c28ac75 7b3b1f599923c55cd22057846b07d1a01c28ac75 Maxim Tolstikov <vadimovich@list.ru> 1530427891 +0300	checkout: moving from master to Feature/h1
+7b3b1f599923c55cd22057846b07d1a01c28ac75 7b3b1f599923c55cd22057846b07d1a01c28ac75 Maxim Tolstikov <vadimovich@list.ru> 1530428520 +0300	checkout: moving from Feature/h1 to master
+7b3b1f599923c55cd22057846b07d1a01c28ac75 7b3b1f599923c55cd22057846b07d1a01c28ac75 Maxim Tolstikov <vadimovich@list.ru> 1530429030 +0300	checkout: moving from master to Feature/h1
+7b3b1f599923c55cd22057846b07d1a01c28ac75 7b3b1f599923c55cd22057846b07d1a01c28ac75 Maxim Tolstikov <vadimovich@list.ru> 1530429908 +0300	checkout: moving from Feature/h1 to master
+7b3b1f599923c55cd22057846b07d1a01c28ac75 2a32c53f6131407d63a8c34fdddfb9a0e398caba Maxim Tolstikov <vadimovich@list.ru> 1530429998 +0300	commit: собрал всё обратно
+2a32c53f6131407d63a8c34fdddfb9a0e398caba c14cb5e934c963b80acfb7b4d9db15fa1c63425c Maxim Tolstikov <vadimovich@list.ru> 1530430323 +0300	commit: разобрал структуру проекта
+c14cb5e934c963b80acfb7b4d9db15fa1c63425c c14cb5e934c963b80acfb7b4d9db15fa1c63425c Maxim Tolstikov <vadimovich@list.ru> 1530430397 +0300	checkout: moving from master to Feature/h1
+c14cb5e934c963b80acfb7b4d9db15fa1c63425c faec9b6f8a60920f37c0064624d6155b7d5af20e Maxim Tolstikov <vadimovich@list.ru> 1530430554 +0300	commit: поправил структуру проекта
+faec9b6f8a60920f37c0064624d6155b7d5af20e c14cb5e934c963b80acfb7b4d9db15fa1c63425c Maxim Tolstikov <vadimovich@list.ru> 1530430563 +0300	checkout: moving from Feature/h1 to master
+c14cb5e934c963b80acfb7b4d9db15fa1c63425c faec9b6f8a60920f37c0064624d6155b7d5af20e Maxim Tolstikov <vadimovich@list.ru> 1530430582 +0300	merge Feature/h1: Fast-forward
+faec9b6f8a60920f37c0064624d6155b7d5af20e 62fd3f32adc5ba78d104077e569798f6b5ee7039 Maxim Tolstikov <vadimovich@list.ru> 1530431259 +0300	commit: service
+62fd3f32adc5ba78d104077e569798f6b5ee7039 a35b7599664f306d16d7754320ae305047c1aed8 Maxim Tolstikov <vadimovich@list.ru> 1530431296 +0300	checkout: moving from master to a35b7599664f306d16d7754320ae305047c1aed8
+a35b7599664f306d16d7754320ae305047c1aed8 1f61f1758c9fcf79e78cd62ce5ec77606c2bee1e Maxim Tolstikov <vadimovich@list.ru> 1530431876 +0300	commit: test
+1f61f1758c9fcf79e78cd62ce5ec77606c2bee1e a35b7599664f306d16d7754320ae305047c1aed8 Maxim Tolstikov <vadimovich@list.ru> 1530431894 +0300	checkout: moving from 1f61f1758c9fcf79e78cd62ce5ec77606c2bee1e to a35b7599664f306d16d7754320ae305047c1aed8
+a35b7599664f306d16d7754320ae305047c1aed8 3dbd018f72452711ea8c07a3b4e7767548dfecda Maxim Tolstikov <vadimovich@list.ru> 1530432220 +0300	commit: вернул проект к изначальному
+3dbd018f72452711ea8c07a3b4e7767548dfecda 8174a9d621a0972ddcfbaf41aca5a614f1c0abd9 Maxim Tolstikov <vadimovich@list.ru> 1530432255 +0300	commit: Вернул проект к изначальной структуре
+8174a9d621a0972ddcfbaf41aca5a614f1c0abd9 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530432511 +0300	checkout: moving from 8174a9d621a0972ddcfbaf41aca5a614f1c0abd9 to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 62fd3f32adc5ba78d104077e569798f6b5ee7039 Maxim Tolstikov <vadimovich@list.ru> 1530432728 +0300	reset: moving to 62fd3f32adc5ba78d104077e569798f6b5ee7039
+62fd3f32adc5ba78d104077e569798f6b5ee7039 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530432743 +0300	checkout: moving from 62fd3f32adc5ba78d104077e569798f6b5ee7039 to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 62fd3f32adc5ba78d104077e569798f6b5ee7039 Maxim Tolstikov <vadimovich@list.ru> 1530433653 +0300	pull origin master: Fast-forward
+62fd3f32adc5ba78d104077e569798f6b5ee7039 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530433703 +0300	checkout: moving from 62fd3f32adc5ba78d104077e569798f6b5ee7039 to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 62fd3f32adc5ba78d104077e569798f6b5ee7039 Maxim Tolstikov <vadimovich@list.ru> 1530433803 +0300	checkout: moving from 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 to master
+62fd3f32adc5ba78d104077e569798f6b5ee7039 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530433830 +0300	checkout: moving from master to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530434262 +0300	checkout: moving from 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 to Feature/h1
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 89f50baf556403e796d3a9a56804ca82329919e1 Maxim Tolstikov <vadimovich@list.ru> 1530434425 +0300	commit: удалил сториборд и контроллер по умолчанию
+89f50baf556403e796d3a9a56804ca82329919e1 62fd3f32adc5ba78d104077e569798f6b5ee7039 Maxim Tolstikov <vadimovich@list.ru> 1530434442 +0300	checkout: moving from Feature/h1 to master
+62fd3f32adc5ba78d104077e569798f6b5ee7039 a52c4e28f19f28331e60dd15baae2c525f95c5f4 Maxim Tolstikov <vadimovich@list.ru> 1530434494 +0300	commit (merge): Merge branch 'Feature/h1'
+a52c4e28f19f28331e60dd15baae2c525f95c5f4 7cd11a69d7d44625bdf0c42475aace985c122376 Maxim Tolstikov <vadimovich@list.ru> 1530434616 +0300	commit: no message
+7cd11a69d7d44625bdf0c42475aace985c122376 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530434672 +0300	checkout: moving from master to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 92688739fb3b88f0c7a79e1d55a61effab31d8b5 Maxim Tolstikov <vadimovich@list.ru> 1530434730 +0300	revert: Revert "no message"
+92688739fb3b88f0c7a79e1d55a61effab31d8b5 a2822cee3bc0b06022825fbc894344b997dd68b4 Maxim Tolstikov <vadimovich@list.ru> 1530434737 +0300	revert: Revert "Revert "no message""
+a2822cee3bc0b06022825fbc894344b997dd68b4 3d12819ec88494c3d75ecc61011729236767623a Maxim Tolstikov <vadimovich@list.ru> 1530434749 +0300	revert: Revert "Revert "Revert "no message"""
+3d12819ec88494c3d75ecc61011729236767623a 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530434802 +0300	checkout: moving from 3d12819ec88494c3d75ecc61011729236767623a to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 a35b7599664f306d16d7754320ae305047c1aed8 Maxim Tolstikov <vadimovich@list.ru> 1530434824 +0300	checkout: moving from 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 to a35b7599664f306d16d7754320ae305047c1aed8
+a35b7599664f306d16d7754320ae305047c1aed8 7cd11a69d7d44625bdf0c42475aace985c122376 Maxim Tolstikov <vadimovich@list.ru> 1530435319 +0300	checkout: moving from a35b7599664f306d16d7754320ae305047c1aed8 to master
+7cd11a69d7d44625bdf0c42475aace985c122376 a52c4e28f19f28331e60dd15baae2c525f95c5f4 Maxim Tolstikov <vadimovich@list.ru> 1530435344 +0300	checkout: moving from master to a52c4e28f19f28331e60dd15baae2c525f95c5f4
+a52c4e28f19f28331e60dd15baae2c525f95c5f4 4ed0766011b1a1682ea43da1b1a2f6c7d3b54615 Maxim Tolstikov <vadimovich@list.ru> 1530435420 +0300	commit: no message
+4ed0766011b1a1682ea43da1b1a2f6c7d3b54615 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 Maxim Tolstikov <vadimovich@list.ru> 1530435437 +0300	checkout: moving from 4ed0766011b1a1682ea43da1b1a2f6c7d3b54615 to 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7
+5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 7cd11a69d7d44625bdf0c42475aace985c122376 Maxim Tolstikov <vadimovich@list.ru> 1530435681 +0300	checkout: moving from 5c37f2c6cbeaa9cb7f27cf00f443211c4d3868b7 to master
+7cd11a69d7d44625bdf0c42475aace985c122376 22a0438b98cebf3f50825f5ab5c405cacb7235bb Maxim Tolstikov <vadimovich@list.ru> 1530436462 +0300	commit: собрал файлы для проекта
+22a0438b98cebf3f50825f5ab5c405cacb7235bb 22a0438b98cebf3f50825f5ab5c405cacb7235bb Maxim Tolstikov <vadimovich@list.ru> 1530437065 +0300	checkout: moving from master to Feature/h1
+22a0438b98cebf3f50825f5ab5c405cacb7235bb 6326f09f1f8fb66b366a5fe37fbf75310adffb3d Maxim Tolstikov <vadimovich@list.ru> 1530437648 +0300	commit: добавил .gitkeep
+6326f09f1f8fb66b366a5fe37fbf75310adffb3d 22a0438b98cebf3f50825f5ab5c405cacb7235bb Maxim Tolstikov <vadimovich@list.ru> 1530444865 +0300	checkout: moving from Feature/h1 to master
+22a0438b98cebf3f50825f5ab5c405cacb7235bb 6326f09f1f8fb66b366a5fe37fbf75310adffb3d Maxim Tolstikov <vadimovich@list.ru> 1530444885 +0300	checkout: moving from master to Feature/h1
+6326f09f1f8fb66b366a5fe37fbf75310adffb3d 22a0438b98cebf3f50825f5ab5c405cacb7235bb Maxim Tolstikov <vadimovich@list.ru> 1530444923 +0300	checkout: moving from Feature/h1 to master
+22a0438b98cebf3f50825f5ab5c405cacb7235bb 6326f09f1f8fb66b366a5fe37fbf75310adffb3d Maxim Tolstikov <vadimovich@list.ru> 1530444965 +0300	checkout: moving from master to Feature/h1
+6326f09f1f8fb66b366a5fe37fbf75310adffb3d 22a0438b98cebf3f50825f5ab5c405cacb7235bb Maxim Tolstikov <vadimovich@list.ru> 1530457079 +0300	checkout: moving from Feature/h1 to master
+22a0438b98cebf3f50825f5ab5c405cacb7235bb 265e105be4e13c69026de6f4e1c0c0809e09fbe8 Maxim Tolstikov <vadimovich@list.ru> 1530457100 +0300	pull origin master: Fast-forward
+265e105be4e13c69026de6f4e1c0c0809e09fbe8 265e105be4e13c69026de6f4e1c0c0809e09fbe8 Maxim Tolstikov <vadimovich@list.ru> 1530786571 +0300	checkout: moving from master to master
+265e105be4e13c69026de6f4e1c0c0809e09fbe8 61f33a959b86f71e5c227c6d25f80b8738f4ef66 Maxim Tolstikov <vadimovich@list.ru> 1530786664 +0300	commit: Установил pod Alamofire
+61f33a959b86f71e5c227c6d25f80b8738f4ef66 61f33a959b86f71e5c227c6d25f80b8738f4ef66 Maxim Tolstikov <vadimovich@list.ru> 1530786698 +0300	checkout: moving from master to Feature/h2
+61f33a959b86f71e5c227c6d25f80b8738f4ef66 9f0bcd00ee138ba8e6272bbbade5b59de48e5fa5 Maxim Tolstikov <vadimovich@list.ru> 1530818086 +0300	commit: Выполнил всё что делали на уроке
+9f0bcd00ee138ba8e6272bbbade5b59de48e5fa5 a814fc6d85bfa0892006cb9d49936b81642f27d8 Maxim Tolstikov <vadimovich@list.ru> 1530858313 +0300	commit: добавил регистрацию, выход и изменение данных (дз №2)
+a814fc6d85bfa0892006cb9d49936b81642f27d8 61f33a959b86f71e5c227c6d25f80b8738f4ef66 Maxim Tolstikov <vadimovich@list.ru> 1530863274 +0300	checkout: moving from Feature/h2 to master
+61f33a959b86f71e5c227c6d25f80b8738f4ef66 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530863289 +0300	pull origin master: Fast-forward
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530949729 +0300	checkout: moving from master to master
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530949752 +0300	checkout: moving from master to master
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530949777 +0300	checkout: moving from master to master
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530949922 +0300	reset: moving to d395da380e7805a61829bdb3b4de2a0fb5d87c75
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 0ae8efb34aff19ada7c96ce50acf9b6329fda324 Maxim Tolstikov <vadimovich@list.ru> 1530950004 +0300	commit: test
+0ae8efb34aff19ada7c96ce50acf9b6329fda324 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530950015 +0300	reset: moving to d395da380e7805a61829bdb3b4de2a0fb5d87c75
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 2f08e6b709279c92487d730345e1d66ff7a30913 Maxim Tolstikov <vadimovich@list.ru> 1530950035 +0300	commit: test
+2f08e6b709279c92487d730345e1d66ff7a30913 76e7f838a2b8918f705eea69e00eaaabd0496b6d Maxim Tolstikov <vadimovich@list.ru> 1530950126 +0300	revert: Revert "test"
+76e7f838a2b8918f705eea69e00eaaabd0496b6d 594238b46dd9e8656022bb5c1a1d19b981066a62 Maxim Tolstikov <vadimovich@list.ru> 1530950149 +0300	revert: Revert "Revert "test""
+594238b46dd9e8656022bb5c1a1d19b981066a62 d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1530950268 +0300	checkout: moving from master to test
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 594238b46dd9e8656022bb5c1a1d19b981066a62 Maxim Tolstikov <vadimovich@list.ru> 1530950690 +0300	checkout: moving from test to master
+594238b46dd9e8656022bb5c1a1d19b981066a62 d3a6b9eed8d63283827d014508e81638775e9c4c Maxim Tolstikov <vadimovich@list.ru> 1530963353 +0300	commit: Исправил указания преподователя
+d3a6b9eed8d63283827d014508e81638775e9c4c 7957bbc3da169b2bd9a3adbeda89d181a852374a Maxim Tolstikov <vadimovich@list.ru> 1530963385 +0300	commit: Исправил указания преподователя (2)
+7957bbc3da169b2bd9a3adbeda89d181a852374a 7957bbc3da169b2bd9a3adbeda89d181a852374a Maxim Tolstikov <vadimovich@list.ru> 1530963462 +0300	checkout: moving from master to Feature/h3
+7957bbc3da169b2bd9a3adbeda89d181a852374a 7a3999aea4e77f663831646bded1bbabd582ad15 Maxim Tolstikov <vadimovich@list.ru> 1531077601 +0300	commit: Выполнил дз№3
+7a3999aea4e77f663831646bded1bbabd582ad15 7957bbc3da169b2bd9a3adbeda89d181a852374a Maxim Tolstikov <vadimovich@list.ru> 1531125846 +0300	checkout: moving from Feature/h3 to master
+7957bbc3da169b2bd9a3adbeda89d181a852374a f21760d2024ef2e355ac4f4518e389caaf7bcd8f Maxim Tolstikov <vadimovich@list.ru> 1531125864 +0300	pull origin master: Fast-forward
+f21760d2024ef2e355ac4f4518e389caaf7bcd8f f21760d2024ef2e355ac4f4518e389caaf7bcd8f Maxim Tolstikov <vadimovich@list.ru> 1531126197 +0300	checkout: moving from master to Correction
+f21760d2024ef2e355ac4f4518e389caaf7bcd8f 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531198188 +0300	commit: Исправил указания преподователя
+47a2994a928003f5b21a01ddf3d9117939509354 f21760d2024ef2e355ac4f4518e389caaf7bcd8f Maxim Tolstikov <vadimovich@list.ru> 1531198202 +0300	checkout: moving from Correction to master
+f21760d2024ef2e355ac4f4518e389caaf7bcd8f 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531198212 +0300	merge Correction: Fast-forward
+47a2994a928003f5b21a01ddf3d9117939509354 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531300394 +0300	checkout: moving from master to Correction
+47a2994a928003f5b21a01ddf3d9117939509354 a3e330a22b7965119178a11d79ee18e594d5ade1 Maxim Tolstikov <vadimovich@list.ru> 1531812796 +0300	commit: успел сделать в мастере
+a3e330a22b7965119178a11d79ee18e594d5ade1 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531812808 +0300	checkout: moving from Correction to master
+47a2994a928003f5b21a01ddf3d9117939509354 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531812812 +0300	checkout: moving from master to master
+47a2994a928003f5b21a01ddf3d9117939509354 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1531812838 +0300	checkout: moving from master to h5
+47a2994a928003f5b21a01ddf3d9117939509354 a3e330a22b7965119178a11d79ee18e594d5ade1 Maxim Tolstikov <vadimovich@list.ru> 1531812857 +0300	merge Correction: Fast-forward
+a3e330a22b7965119178a11d79ee18e594d5ade1 0000000000000000000000000000000000000000 Maxim Tolstikov <vadimovich@list.ru> 1531812903 +0300	Branch: renamed refs/heads/h5 to refs/heads/Feature/h5
+0000000000000000000000000000000000000000 a3e330a22b7965119178a11d79ee18e594d5ade1 Maxim Tolstikov <vadimovich@list.ru> 1531812903 +0300	Branch: renamed refs/heads/h5 to refs/heads/Feature/h5
+a3e330a22b7965119178a11d79ee18e594d5ade1 72fd4c6928cd67fea291d184e7bed58f7928905a Maxim Tolstikov <vadimovich@list.ru> 1532003538 +0300	commit: выполнил задания из д/з 5 и 6
+72fd4c6928cd67fea291d184e7bed58f7928905a 72fd4c6928cd67fea291d184e7bed58f7928905a Maxim Tolstikov <vadimovich@list.ru> 1532003625 +0300	checkout: moving from Feature/h5 to Feature/h6
+72fd4c6928cd67fea291d184e7bed58f7928905a 47a2994a928003f5b21a01ddf3d9117939509354 Maxim Tolstikov <vadimovich@list.ru> 1532161577 +0300	checkout: moving from Feature/h6 to master
+47a2994a928003f5b21a01ddf3d9117939509354 eef524626f0ea32f7b8a9fa5c35a2f951ba70e0b Maxim Tolstikov <vadimovich@list.ru> 1532161588 +0300	pull origin master: Fast-forward
+eef524626f0ea32f7b8a9fa5c35a2f951ba70e0b 7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f Maxim Tolstikov <vadimovich@list.ru> 1532175367 +0300	commit: тест
+7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f 7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f Maxim Tolstikov <vadimovich@list.ru> 1532175390 +0300	checkout: moving from master to Feature/h7
+7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f 74edd37e4f4a0f0fe7cc254c12701d5308ed356a Maxim Tolstikov <vadimovich@list.ru> 1532265335 +0300	commit: реализовал ViewControllers
+74edd37e4f4a0f0fe7cc254c12701d5308ed356a 7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f Maxim Tolstikov <vadimovich@list.ru> 1532265403 +0300	checkout: moving from Feature/h7 to master
+7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f d395da380e7805a61829bdb3b4de2a0fb5d87c75 Maxim Tolstikov <vadimovich@list.ru> 1532265428 +0300	checkout: moving from master to d395da380e7805a61829bdb3b4de2a0fb5d87c75
+d395da380e7805a61829bdb3b4de2a0fb5d87c75 74edd37e4f4a0f0fe7cc254c12701d5308ed356a Maxim Tolstikov <vadimovich@list.ru> 1532265507 +0300	checkout: moving from d395da380e7805a61829bdb3b4de2a0fb5d87c75 to Feature/h7
+74edd37e4f4a0f0fe7cc254c12701d5308ed356a 56db19369f16501fd845750fffa71f4261f75a55 Maxim Tolstikov <vadimovich@list.ru> 1532358001 +0300	commit: Создал контроллеры (авторизации редактирования и представления) запросы идут на МОС
+56db19369f16501fd845750fffa71f4261f75a55 7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f Maxim Tolstikov <vadimovich@list.ru> 1532358552 +0300	checkout: moving from Feature/h7 to master
+7adbae6cbdfdb57a410c7b0d0c0b78d28d39ae9f 56db19369f16501fd845750fffa71f4261f75a55 Maxim Tolstikov <vadimovich@list.ru> 1532358562 +0300	merge Feature/h7: Fast-forward
+56db19369f16501fd845750fffa71f4261f75a55 56db19369f16501fd845750fffa71f4261f75a55 Maxim Tolstikov <vadimovich@list.ru> 1532532894 +0300	checkout: moving from master to Feature/h8
+56db19369f16501fd845750fffa71f4261f75a55 0b3ae805c709ec839c5c52a41a70531209938b8a Maxim Tolstikov <vadimovich@list.ru> 1532696840 +0300	commit: Сделал список продуктов (открывается после авторизации)
+0b3ae805c709ec839c5c52a41a70531209938b8a 56db19369f16501fd845750fffa71f4261f75a55 Maxim Tolstikov <vadimovich@list.ru> 1532715965 +0300	checkout: moving from Feature/h8 to master
+56db19369f16501fd845750fffa71f4261f75a55 0b3ae805c709ec839c5c52a41a70531209938b8a Maxim Tolstikov <vadimovich@list.ru> 1532715974 +0300	merge Feature/h8: Fast-forward
+0b3ae805c709ec839c5c52a41a70531209938b8a 661e21f3bc86c722f34cee7b076dd5d9f84e20fa Maxim Tolstikov <vadimovich@list.ru> 1532951120 +0300	commit: Изменил модель для получения списка "Продуктов" с сервера
+661e21f3bc86c722f34cee7b076dd5d9f84e20fa 661e21f3bc86c722f34cee7b076dd5d9f84e20fa Maxim Tolstikov <vadimovich@list.ru> 1532951155 +0300	checkout: moving from master to Feature/h9
+661e21f3bc86c722f34cee7b076dd5d9f84e20fa c67ec84ba29bd555a8f12470d7e8b110c6e96fa8 Maxim Tolstikov <vadimovich@list.ru> 1533039757 +0300	commit: Добавил экран "О товаре" в котором реализован динамический стек для добавления отзывов
+c67ec84ba29bd555a8f12470d7e8b110c6e96fa8 661e21f3bc86c722f34cee7b076dd5d9f84e20fa Maxim Tolstikov <vadimovich@list.ru> 1533047589 +0300	checkout: moving from Feature/h9 to master
+661e21f3bc86c722f34cee7b076dd5d9f84e20fa 01de70a38544474be47894693bb0079d0dd2a588 Maxim Tolstikov <vadimovich@list.ru> 1533047603 +0300	pull origin master: Fast-forward
+01de70a38544474be47894693bb0079d0dd2a588 b3385db3f2de00a8ad60add7e6db76c74e10158a Maxim Tolstikov <vadimovich@list.ru> 1533048554 +0300	commit: добавил вызов родителя в методах viewWillAppear()
+b3385db3f2de00a8ad60add7e6db76c74e10158a 0060570516d30f583da3242542d520d36eb2ef2d Maxim Tolstikov <vadimovich@list.ru> 1533391038 +0300	commit: Вынес уведомления клавиатуры в отдельный класс. Создал AlertController расширением для контроллера
+0060570516d30f583da3242542d520d36eb2ef2d 0060570516d30f583da3242542d520d36eb2ef2d Maxim Tolstikov <vadimovich@list.ru> 1533391071 +0300	checkout: moving from master to Feature/h10
+0060570516d30f583da3242542d520d36eb2ef2d 104d8ca6239873a9aebc0be05660f1a8ae2dcf96 Maxim Tolstikov <vadimovich@list.ru> 1533404320 +0300	commit: Настроил Tab bar и Navigation Bar. Структурировал экраны приложения.
+104d8ca6239873a9aebc0be05660f1a8ae2dcf96 dbd77c6d5a7e83ce880ff9af87a8dd5e30139754 Maxim Tolstikov <vadimovich@list.ru> 1533747348 +0300	commit: Доделал список заказов в корзине с помощью xib
+dbd77c6d5a7e83ce880ff9af87a8dd5e30139754 a3c5a7ec96ced507a49aa3af3cbe9996059058e9 Maxim Tolstikov <vadimovich@list.ru> 1533798715 +0300	commit: Написал UITest на авторизацию и регистрацию
+a3c5a7ec96ced507a49aa3af3cbe9996059058e9 a3c5a7ec96ced507a49aa3af3cbe9996059058e9 Maxim Tolstikov <vadimovich@list.ru> 1533801670 +0300	reset: moving to HEAD
+a3c5a7ec96ced507a49aa3af3cbe9996059058e9 a3c5a7ec96ced507a49aa3af3cbe9996059058e9 Maxim Tolstikov <vadimovich@list.ru> 1533801670 +0300	checkout: moving from Feature/h10 to Feature/h10
+a3c5a7ec96ced507a49aa3af3cbe9996059058e9 a3c5a7ec96ced507a49aa3af3cbe9996059058e9 Maxim Tolstikov <vadimovich@list.ru> 1533801754 +0300	checkout: moving from Feature/h10 to Feature/h10
+a3c5a7ec96ced507a49aa3af3cbe9996059058e9 dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d Maxim Tolstikov <vadimovich@list.ru> 1533801819 +0300	commit: Установил Fabric
+dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d 0060570516d30f583da3242542d520d36eb2ef2d Maxim Tolstikov <vadimovich@list.ru> 1533801852 +0300	checkout: moving from Feature/h10 to master
+0060570516d30f583da3242542d520d36eb2ef2d dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d Maxim Tolstikov <vadimovich@list.ru> 1533801872 +0300	merge Feature/h10: Fast-forward
+dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d Maxim Tolstikov <vadimovich@list.ru> 1533801908 +0300	checkout: moving from master to Featrure/h11
+dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d 0000000000000000000000000000000000000000 Maxim Tolstikov <vadimovich@list.ru> 1533801947 +0300	Branch: renamed refs/heads/Featrure/h11 to refs/heads/Feature/h11
+0000000000000000000000000000000000000000 dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d Maxim Tolstikov <vadimovich@list.ru> 1533801947 +0300	Branch: renamed refs/heads/Featrure/h11 to refs/heads/Feature/h11
+dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d 36c62e4314f76cd733e02c8d3de9030260e27d8c Maxim Tolstikov <vadimovich@list.ru> 1533818980 +0300	commit: Добален сбор аналитики по средством Fabric
+36c62e4314f76cd733e02c8d3de9030260e27d8c f1fbef69337518255e6ef3fc46a5e541c25b4616 Maxim Tolstikov <vadimovich@list.ru> 1533829711 +0300	commit: Установили Fastlane
+f1fbef69337518255e6ef3fc46a5e541c25b4616 23206518d06b733ef7364a12483f1d12d188d204 Maxim Tolstikov <vadimovich@list.ru> 1533848723 +0300	commit: Настроил Fastlane. Не сработал GYM ругался на "development"
+23206518d06b733ef7364a12483f1d12d188d204 dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d Maxim Tolstikov <vadimovich@list.ru> 1533848769 +0300	checkout: moving from Feature/h11 to master
+dfca9a304b1db1ce012cb53c0c3ad693b9ccff5d 23206518d06b733ef7364a12483f1d12d188d204 Maxim Tolstikov <vadimovich@list.ru> 1533848783 +0300	merge Feature/h11: Fast-forward
+23206518d06b733ef7364a12483f1d12d188d204 238b905c275895b88e7e17b987905388a018ce65 Maxim Tolstikov <vadimovich@list.ru> 1533872178 +0300	commit: To complete Fastline
